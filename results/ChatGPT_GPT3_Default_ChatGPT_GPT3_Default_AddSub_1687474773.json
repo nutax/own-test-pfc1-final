@@ -1,0 +1,27 @@
+{
+    "execution_id": "ChatGPT_GPT3_Default_ChatGPT_GPT3_Default_AddSub_1687474773",
+    "score": 1.0,
+    "answers": [
+        {
+            "prompt": "\n        Q: 'Joan found 70 seashells on the beach . she gave Sam some of her seashells . She has 27 seashell . How many seashells did she give to Sam ? '\n\n        \n        A: ",
+            "response": "Joan gave Sam 43 seashells. \n\nTo find out, you can subtract the number of seashells Joan has now (27) from the number she originally found (70): \n\n70 - 27 = 43 \n\nTherefore, Joan gave Sam 43 seashells.",
+            "prompt_length": 175,
+            "response_length": 200,
+            "correct_answer": "43"
+        },
+        {
+            "prompt": "\n        Q: 'There were 28 bales of hay in the barn . Tim stacked bales in the barn today . There are now 54 bales of hay in the barn . How many bales did he store in the barn ? '\n\n        \n        A: ",
+            "response": "Tim stored 26 bales of hay in the barn. \n\nTo solve this problem, we can use subtraction. We know that there were originally 28 bales of hay in the barn, and now there are 54. So, we can subtract 28 from 54 to find out how many bales Tim added: \n\n54 - 28 = 26 \n\nTherefore, Tim stored 26 bales of hay in the barn.",
+            "prompt_length": 201,
+            "response_length": 311,
+            "correct_answer": "26"
+        },
+        {
+            "prompt": "\n        Q: 'Mary is baking a cake . The recipe wants 8 cups of flour . She already put in 2 cups . How many cups does she need to add ? '\n\n        \n        A: ",
+            "response": "Mary needs to add 6 cups of flour to reach the required 8 cups.",
+            "prompt_length": 160,
+            "response_length": 63,
+            "correct_answer": "6"
+        }
+    ]
+}
